@@ -8,8 +8,6 @@
 
 粘贴图片时**按光标所处章节自动命名**的 VS Code 扩展:在 `=== telnet 命令产生的数据包` 下 Ctrl+V,图片自动存成 `imgs/5.9.1.png`,并在光标处插入 `#image("imgs/5.9.1.png", width: 80%)`。Typst 与 Markdown 双支持,可从 [Releases](https://github.com/EeeMaoY/section-figure-paste/releases) 下载 .vsix 安装。
 
-<img src="https://raw.githubusercontent.com/EeeMaoY/section-figure-paste/main/images/demo.png" width="640" alt="Section Figure Paste 演示"/>
-
 ### [skills](https://github.com/EeeMaoY/skills)
 
 个人的 Claude Code 全局 [skills](https://docs.claude.com/en/docs/claude-code/skills) 集合,放在 `~/.claude/skills/` 下跨机器同步日常沉淀:skill 编写规范、课程实验报告工作流(Typst)等。
