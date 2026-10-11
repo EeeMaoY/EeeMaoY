@@ -1,18 +1,18 @@
-# 你好,我是 EeeMao 👋
+# 你好，我是 EeeMao 👋
 
-目前还是个GitHub新手,相比一般的学习,可能还是更喜欢边玩边学,也因此参与了一些游戏相关的项目
+目前还是个GitHub新手，相比一般的从书本上获取知识，更喜欢在应用实践中提升能力，或者说边玩边学，也因此参与了一些游戏相关的项目。
 
-个人开发暂时只做了个小工具,用于辅助编写实验报告。
+个人开发暂时只做了个小工具，用于辅助编写实验报告。
 
 ## 🛠️ 精选项目
 
 ### [Section Figure Paste](https://github.com/EeeMaoY/section-figure-paste)
 
-粘贴图片时**按光标所处章节自动命名**的 VS Code 扩展。Typst 与 Markdown 双支持,可从 [Releases](https://github.com/EeeMaoY/section-figure-paste/releases) 下载 .vsix 安装。
+粘贴图片时**按光标所处章节自动命名**的 VS Code 扩展。Typst 与 Markdown 双支持，可从 [Releases](https://github.com/EeeMaoY/section-figure-paste/releases) 下载 .vsix 安装。
 
 ### [skills](https://github.com/EeeMaoY/skills)
 
-个人的 Claude Code 全局 [skills](https://docs.claude.com/en/docs/claude-code/skills) 集合,放在 `~/.claude/skills/` 下跨机器同步日常沉淀。
+个人的 Claude Code 全局 [skills](https://docs.claude.com/en/docs/claude-code/skills) 集合，放在 `~/.claude/skills/` 下跨机器同步日常沉淀。
 
 ### TO BE CONTINUED
 
