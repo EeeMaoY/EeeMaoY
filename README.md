@@ -32,8 +32,8 @@
 #### 📊 统计
 
 <p>
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=EeeMaoY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&locale=cn" alt="GitHub 统计"/>
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EeeMaoY&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&locale=cn" alt="语言统计"/>
+  <img weight="50%" src="https://github-readme-stats.vercel.app/api?username=EeeMaoY&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&locale=cn" alt="GitHub 统计"/>
+  <img weight="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EeeMaoY&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&locale=cn" alt="语言统计"/>
 </p>
 
-<img height="100" src="https://streak-stats.demolab.com/?user=EeeMaoY&locale=zh_Hans&hide_border=true&background=00000000" alt="连续提交统计"/>
+<img weight="100%" src="https://streak-stats.demolab.com/?user=EeeMaoY&locale=zh_Hans&hide_border=true&background=00000000" alt="连续提交统计"/>
