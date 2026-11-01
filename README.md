@@ -1,14 +1,16 @@
 ### 你好，我是 EeeMao 👋
 
-目前还是个GitHub新手，相比一般的从书本上获取知识，更喜欢在应用实践中提升能力，或者说边玩边学，也因此参与了一些游戏相关的项目。
-
-个人开发暂时只做了个小工具，用于辅助编写实验报告。
+GitHub 新手，相比从书本上获取知识，更喜欢在应用实践中提升能力。
 
 #### 🛠️ 精选项目
 
 ##### [Section Figure Paste](https://github.com/EeeMaoY/section-figure-paste)
 
-粘贴图片时**按光标所处章节自动命名**的 VS Code 扩展。Typst 与 Markdown 双支持，可从 [Releases](https://github.com/EeeMaoY/section-figure-paste/releases) 下载 .vsix 安装。
+粘贴图片时**按光标所处章节自动命名**的 VS Code 扩展。Typst 与 Markdown 双支持，可从 VSCode 插件市场安装，也可从 [Releases](https://github.com/EeeMaoY/section-figure-paste/releases) 下载 .vsix 安装。
+
+##### [MyChat](https://github.com/EeeMaoY/MyChat)
+
+一个去中心化安全社交网络，目的是实现数据完全属于用户的聊天软件，计算机网络课程期末项目。
 
 ##### [skills](https://github.com/EeeMaoY/skills)
 
